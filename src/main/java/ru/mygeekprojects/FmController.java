@@ -53,4 +53,8 @@ public class FmController {
             alert.showAndWait();
         }
     }
+
+    public void btnMove(ActionEvent actionEvent) {
+
+    }
 }
